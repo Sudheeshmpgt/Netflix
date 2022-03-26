@@ -1,0 +1,31 @@
+
+.navbar{
+    position:fixed;
+    top:0;
+    height:30px;
+    width:100%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #111;
+}
+.navlist{
+    display: flex;
+    color:white;
+    justify-content:space-around ;
+    margin-left: 95px;
+    font-size: 0.9rem;
+}
+.navlist span{
+    margin-left:20px;
+}
+.logo{
+    position: fixed;
+    left: 20px;
+    width:80px;
+}
+.avatar{
+    position: fixed;
+    right:20px;
+    width:30px;
+}
